@@ -10,10 +10,10 @@ public class Main
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-	}	System.out.println("War Thunder")
-	}   System.out.println("SJSU") 
-	}   System.out.println("Aviation") 
-	}   System.out.println("Battle of Normandy") 
-	}   System.out.println("Spitfire") 
-	}   System.out.println("Packard Merlin Engine")
+	}	System.out.println("War Thunder");
+	}   System.out.println("I want to go to SJSU"); 
+	}   System.out.println("I want to major in Aviation"); 
+	}   System.out.println("My favorite battle is the Battle of Normandy"); 
+	}   System.out.println("My favorite plane is the Spitfire"); 
+	}   System.out.println("It used the Packard Merlin Engine");
 
